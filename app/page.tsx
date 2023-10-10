@@ -164,7 +164,7 @@ export default function Home() {
           </li>
         </ul>
       </nav>
-      <main className="mt-6 py-10 bg-slate-700 rounded-lg items-center flex flex-col justify-center gap-2">
+      <main className="mt-6 py-10 bg-gray-300 rounded-lg items-center flex flex-col justify-center gap-2">
         <h1 className="text-xl sm:text-3xl font-bold text-center text-white">
 
         </h1>
@@ -219,7 +219,7 @@ export default function Home() {
         )}
       </main>
       {data && (
-        <main className="my-10 py-10 bg-slate-700 rounded-lg items-start flex flex-col justify-start gap-2">
+        <main className="my-10 py-10 bg-gray-300 rounded-lg items-start flex flex-col justify-start gap-2">
           <div className="w-full">
             <div className="rounded-md flex justify-center items-center ">
               <Image
